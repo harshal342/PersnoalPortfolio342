@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+echo "MyPortfolio342/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore MyPortfolio342 folder"
+git push
